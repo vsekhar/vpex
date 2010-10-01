@@ -1,0 +1,7 @@
+Some modules to help controlling Excel with Python code
+
+Many thanks to "PythonExcels":http://www.pythonexcels.com, specifically their "excel mini cookbook":http://www.pythonexcels.com/2009/10/python-excel-mini-cookbook/
+
+Prerequisites:
+* Python 3k
+* "pywin32 extensions":http://sourceforge.net/projects/pywin32/
